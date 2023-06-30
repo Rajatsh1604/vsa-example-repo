@@ -35,3 +35,9 @@ If we have created branch from remote repo and we have to fetch that branch loca
 git fetch 
 git checkout branch-name
 
+If we have to check the commit history : 
+git log
+
+when we have check the commit from the users the we can use command
+commit-id we will get from "git log" 
+git checkout commit-id
